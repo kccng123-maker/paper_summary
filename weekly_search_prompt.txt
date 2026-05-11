@@ -1,0 +1,98 @@
+Search Google Scholar via Playwright MCP for the latest causal inference and target trial emulation papers published in the past 7 days from BMJ, Lancet (and family journals), JAMA (and family journals), and NEJM. Then write detailed markdown summary files and push to GitHub.
+
+Follow these steps exactly:
+
+STEP 0 — Build a list of already-summarised paper titles to avoid duplicates.
+Run this shell command and capture the output:
+  grep -rh "^\*\*Citation:\*\*" /Users/mini/Documents/research/papers/ 2>/dev/null
+This returns the citation lines from all existing paper files. Extract the title portion from each line and keep them as a "seen titles" set. In STEP 2, skip any paper whose title closely matches one in this set (case-insensitive, ignore subtitle differences).
+Also run:
+  ls /Users/mini/Documents/research/papers/LANCET/ /Users/mini/Documents/research/papers/BMJ/ /Users/mini/Documents/research/papers/JAMA/ /Users/mini/Documents/research/papers/NEJM/ 2>/dev/null
+to see existing filenames — use the next available sequential number (NN) for each journal folder when naming new files.
+
+STEP 1 — Search each journal group separately on Google Scholar using the "past week" time filter (as_ridt=7) combined with sort-by-date (scisbd=1):
+- https://scholar.google.com/scholar?q=%22target+trial+emulation%22+OR+%22causal+inference%22+source%3ALancet&as_ridt=7&scisbd=1
+- https://scholar.google.com/scholar?q=%22target+trial+emulation%22+OR+%22causal+inference%22+source%3ABMJ&as_ridt=7&scisbd=1
+- https://scholar.google.com/scholar?q=%22target+trial+emulation%22+OR+%22causal+inference%22+source%3AJAMA&as_ridt=7&scisbd=1
+- https://scholar.google.com/scholar?q=%22target+trial+emulation%22+OR+%22causal+inference%22+source%3A%22New+England+Journal%22&as_ridt=7&scisbd=1
+
+This restricts results to papers indexed by Google Scholar in the past 7 days. If fewer than 3 qualifying papers are found for a journal with the 7-day filter, fall back to a 14-day filter by changing as_ridt=7 to as_ridt=14 for that journal only. Note in the weekly index file which time window was used per journal.
+
+For each search, extract up to 10 results using browser_evaluate:
+() => {
+  const results = []; const seen = new Set();
+  document.querySelectorAll('.gs_ri').forEach(el => {
+    const titleEl = el.querySelector('.gs_rt');
+    const title = titleEl?.innerText?.replace(/^\[.*?\]\s*/, '').trim();
+    const link = titleEl?.querySelector('a')?.href || '';
+    const meta = el.querySelector('.gs_a')?.innerText?.trim();
+    const snippet = el.querySelector('.gs_rs')?.innerText?.trim();
+    if (title && !seen.has(title)) { seen.add(title); results.push({title, link, meta, snippet}); }
+  });
+  return JSON.stringify(results, null, 2);
+}
+
+STEP 2 — Select the top 3 most relevant papers per journal (prioritise: applied TTE studies, methodological papers; exclude: letters, editorials, case reports, non-TTE papers). Skip any paper whose title already exists in the "seen titles" set from STEP 0 — do not write a duplicate file for a paper already summarised in a previous week.
+
+STEP 3 — For each selected paper, navigate to the full text URL using Playwright. Try in order: (1) direct journal URL, (2) PMC if available. Extract: background/objective, methods (data source, design, n, eligibility, time zero, confounder adjustment, statistical analysis, sensitivity analyses), main results (key HR/OR/RR/RD with 95% CI), conclusions, strengths, limitations. If still paywalled after both attempts, note "full text unavailable" and use abstract only.
+
+STEP 4 — Write one detailed markdown file per paper into the appropriate journal folder:
+- /Users/mini/Documents/research/papers/LANCET/LANCET_NN_short_title_YYYY.md
+- /Users/mini/Documents/research/papers/BMJ/BMJ_NN_short_title_YYYY.md
+- /Users/mini/Documents/research/papers/JAMA/JAMA_NN_short_title_YYYY.md
+- /Users/mini/Documents/research/papers/NEJM/NEJM_NN_short_title_YYYY.md
+
+Each file must contain:
+1. Full citation (authors, journal, year, DOI)
+2. Brief summary (3–5 sentences: what question, what data, what key result, why it matters)
+3. Methodology step-by-step:
+   - Step 1: Causal question as PICO target trial specification table
+   - Step 2: Data sources (database name, country, period, n, linkages)
+   - Step 3: Eligibility criteria
+   - Step 4: Time zero and treatment classification
+   - Step 5: Confounder adjustment (method, covariates)
+   - Step 6: Statistical analysis (models, effect measures)
+   - Step 7: Sensitivity analyses
+4. Key results table (HR/OR/RR/RD with 95% CI for primary outcomes)
+5. Strengths and Limitations
+
+STEP 5 — Write a weekly index file at:
+/Users/mini/Documents/research/weekly_YYYY-MM-DD.md
+(use today's actual date)
+
+Format:
+# Weekly Causal Inference / TTE Paper Summary — YYYY-MM-DD
+## LANCET
+### L1. [Title] — one paragraph summary + file link
+### L2. ...
+## BMJ
+### B1. ...
+## JAMA
+### J1. ...
+## NEJM
+(note if no qualifying papers found)
+## Cross-Journal Trend Notes
+- 3–5 bullet points on methodological or thematic patterns this week
+
+STEP 6 — Update trends files.
+Navigate to each journal's current issue and homepage (news section) using Playwright:
+- https://www.thelancet.com/journals/lancet/issue/current
+- https://www.bmj.com
+- https://jamanetwork.com/journals/jama
+- https://www.nejm.org/toc/nejm/current
+
+For each journal, extract new article titles by section (editorial, comment, news, research). Then update the corresponding trends file:
+- /Users/mini/Documents/research/trends/LANCET.md
+- /Users/mini/Documents/research/trends/BMJ.md
+- /Users/mini/Documents/research/trends/JAMA.md
+- /Users/mini/Documents/research/trends/NEJM.md
+
+In each file, update the "Top Trending Diseases / Topics" and "Trending Drugs / Interventions" tables based on new content. Append a new row to the "Weekly Update Log" in /Users/mini/Documents/research/trends/overview.md with today's date and a 1-sentence summary of the most notable new trend. Update the "Last updated" date in each file.
+
+STEP 7 — Git commit and push:
+cd /Users/mini/Documents/research
+git add papers/LANCET/ papers/BMJ/ papers/JAMA/ papers/NEJM/ weekly_YYYY-MM-DD.md trends/
+git commit -m "Add weekly paper summary YYYY-MM-DD + update trends"
+git push
+
+Report: "Weekly summary complete: X papers written across Y journals. Trends updated. Pushed to GitHub."
