@@ -1,7 +1,7 @@
 # New England Journal of Medicine — 2026 Trending Topics
 
-**Last updated:** 2026-05-11
-**Source:** NEJM current issue TOC + homepage featured content (accessed 2026-05-11)
+**Last updated:** 2026-05-18
+**Source:** NEJM current issue TOC (Vol 394, No. 19, May 14/21 2026) + homepage featured content (accessed 2026-05-18)
 
 ---
 
@@ -21,16 +21,18 @@ NEJM is the world's highest-impact medical journal, known for landmark RCTs, cli
 
 | Rank | Topic | Evidence |
 |---|---|---|
-| 1 | **High-risk percutaneous coronary intervention (PCI)** | Microaxial flow pump (Impella) trial — ventricular unloading in high-risk PCI |
-| 2 | **Pancreatic cancer (RAS-mutated)** | Daraxonrasib trial in previously treated advanced disease |
-| 3 | **Influenza (mRNA vaccine)** | mRNA seasonal influenza vaccine efficacy and safety in adults |
-| 4 | **Sickle cell disease** | Base editing of HBG1 and HBG2 promoters — curative gene therapy approach |
-| 5 | **Scabies** | Combined oral ivermectin + 5% permethrin cream for severe scabies |
-| 6 | **Atrial fibrillation** | Antithrombotic therapy post-ablation — comparative trial |
-| 7 | **COVID-19** | Evidence-based vaccination approach; long COVID definition |
-| 8 | **Lipid lowering / PCSK9** | Trial of oral PCSK9 inhibitor (enlicitide) — new drug class |
-| 9 | **Heart failure (HFpEF)** | Video explainer series; management updates |
-| 10 | **Corporatisation of US health care** | Commissioned series on academic medicine and corporate medicine |
+| 1 | **Dermatomyositis** | NEW: Brepocitinib (TYK2/JAK1 inhibitor) Phase 3 RCT — NEJM Vol 394 #19 |
+| 2 | **Medium-vessel-occlusion stroke** | NEW: Endovascular treatment RCT — NEJM Vol 394 #19; editorial on narrowing target population |
+| 3 | **COVID-19 (post-exposure prophylaxis)** | NEW: Ensitrelvir for COVID-19 household contact PEP — NEJM Vol 394 #19 |
+| 4 | **IgA nephropathy** | NEW: Telitacicept (TACI-Fc fusion) Phase 3 interim analysis — NEJM Vol 394 #19; also CD20 vs APRIL/BAFF targeting debate |
+| 5 | **Inflammatory myopathies** | NEW: Review article — NEJM Vol 394 #19 (same issue as dermatomyositis RCT) |
+| 6 | **High-risk percutaneous coronary intervention (PCI)** | Microaxial flow pump (Impella) trial — ventricular unloading in high-risk PCI |
+| 7 | **Pancreatic cancer (RAS-mutated)** | Daraxonrasib trial in previously treated advanced disease |
+| 8 | **Sickle cell disease** | Base editing of HBG1 and HBG2 promoters — curative gene therapy approach |
+| 9 | **AI in medicine** | "Can AI Say 'I Don't Know'?" — NEJM Perspective; "Overcoming the Digital Divide in Health Care AI" |
+| 10 | **US health care affordability** | "A Sleeping Giant of Health Care Affordability — Self-Insured Employers" — NEJM Perspective |
+| 11 | **COVID-19** | Ensitrelvir PEP; current causes of death among children/adolescents (US) |
+| 12 | **Corporatisation of US health care** | Commissioned series on academic medicine and corporate medicine (ongoing) |
 
 ---
 
@@ -38,10 +40,12 @@ NEJM is the world's highest-impact medical journal, known for landmark RCTs, cli
 
 | Drug / Intervention | Context |
 |---|---|
+| **Brepocitinib** | NEW: TYK2/JAK1 inhibitor — Phase 3 RCT in dermatomyositis (NEJM Vol 394 #19) |
+| **Ensitrelvir** | NEW: Antiviral for COVID-19 postexposure prophylaxis in household contacts (NEJM Vol 394 #19) |
+| **Telitacicept** | NEW: TACI-Fc fusion protein (targets APRIL+BAFF) — Phase 3 interim in IgA nephropathy (NEJM Vol 394 #19) |
 | **Daraxonrasib** | KRAS/RAS inhibitor for advanced pancreatic cancer — first major trial |
 | **mRNA flu vaccine (Moderna)** | Head-to-head vs standard influenza vaccine — adults |
 | **Base editing (HBG1/HBG2)** | Gene editing for sickle cell disease — fetal haemoglobin reactivation |
-| **Oral ivermectin + permethrin** | Combination therapy for severe/crusted scabies |
 | **Enlicitide (oral PCSK9 inhibitor)** | Phase 2/3 trial results — first oral agent in PCSK9 class |
 | **Microaxial flow pump (Impella)** | Left ventricular unloading device in high-risk PCI |
 | **Tirzepatide** | Weight maintenance (referenced across journals) |

@@ -1,7 +1,7 @@
 # JAMA Network — 2026 Trending Topics
 
-**Last updated:** 2026-05-11
-**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-05-11)
+**Last updated:** 2026-05-18
+**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-05-18)
 
 ---
 
@@ -21,16 +21,18 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 
 | Rank | Topic | Evidence |
 |---|---|---|
-| 1 | **Acute ischemic stroke** | Three major trials: tirofiban after tenecteplase, tenecteplase pre-thrombectomy, intra-arterial alteplase post-thrombectomy |
+| 1 | **Acute ischemic stroke** | Three major trials: tirofiban after tenecteplase, tenecteplase pre-thrombectomy, intra-arterial alteplase post-thrombectomy; TAPIS in Lancet cross-cited |
 | 2 | **Heart failure** | Digoxin in rheumatic heart disease; HFpEF video series; CRT review |
-| 3 | **Alzheimer's disease** | Donanemab trial; drug treatment pathophysiology review |
-| 4 | **Obesity / GLP-1 era** | Tirzepatide weight maintenance; exercise conundrum in GLP-1 era |
-| 5 | **Colorectal cancer** | Adenoma and cancer mortality in older adults; cancer screening section |
-| 6 | **Pancreatic cancer** | Daraxonrasib in RAS-mutated advanced disease |
-| 7 | **Hepatitis B** | Global transmission and treatment insights feature |
-| 8 | **Hantavirus** | Patient information feature; coverage following cruise ship outbreak |
-| 9 | **Lipid management** | New lipid guidelines update; ApoB vs non-HDL-C vs LDL-C cost-effectiveness |
-| 10 | **Sickle cell disease** | Base editing of HBG1/HBG2 promoters — gene therapy advance |
+| 3 | **Alzheimer's disease** | Donanemab trial; drug treatment pathophysiology review; BMJ education article on advances |
+| 4 | **Obesity / GLP-1 era** | Tirzepatide weight maintenance; exercise conundrum in GLP-1 era; presurgery exercise and nutrition reducing complications |
+| 5 | **Osteogenesis Imperfecta** | Teriparatide + zoledronic acid RCT (just published — new entry this week) |
+| 6 | **Hypertrophic cardiomyopathy** | HCMR registry outcomes (just published this week) |
+| 7 | **Amyotrophic lateral sclerosis (ALS)** | JAMA Review published this week |
+| 8 | **Chikungunya** | New JAMA entry this week — re-emerging arboviral disease |
+| 9 | **Hepatitis B** | Global transmission and treatment insights feature |
+| 10 | **Hantavirus** | Patient information feature; coverage following cruise ship outbreak; Lancet/BMJ cross-journal |
+| 11 | **Psilocybin / psychedelics** | Single-dose psilocybin for major depressive disorder; Lancet editorial cross-cited |
+| 12 | **Sibling comparison designs** | Causal inference methodological letter (JAMA, Hswen Y, Apr 2026) — paywalled correspondence |
 
 ---
 
@@ -41,12 +43,14 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 | **Tirofiban** | IV adjunct after tenecteplase in ischemic stroke — major RCT |
 | **Tenecteplase** | Pre-thrombectomy thrombolysis — non-inferiority trial |
 | **Intra-arterial alteplase** | Post-thrombectomy adjunct — RCT results |
+| **Teriparatide + zoledronic acid** | NEW: Combination therapy for osteogenesis imperfecta — phase 3 RCT (just published) |
 | **Daraxonrasib** | First-in-class RAS inhibitor for pancreatic cancer |
 | **Donanemab** | Anti-amyloid antibody — early symptomatic Alzheimer's RCT |
 | **Tirzepatide** | GLP-1/GIP dual agonist — weight maintenance trial |
 | **Enlicitide** | Oral PCSK9 inhibitor — first trial results |
 | **Digoxin** | Re-evaluated in rheumatic heart failure |
 | **Levothyroxine** | Discontinuation trial in adults ≥60 |
+| **Psilocybin** | Single-dose for major depressive disorder |
 | **Amoxicillin-clavulanate vs amoxicillin** | Acute sinusitis RCT |
 
 ---

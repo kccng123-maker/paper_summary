@@ -1,6 +1,6 @@
 # Cross-Journal Medical Trends Overview — 2026
 
-**Last updated:** 2026-05-11
+**Last updated:** 2026-05-18
 **Journals covered:** The Lancet, BMJ, JAMA, NEJM
 **Sources:** Current issue TOCs, journal homepages, news sections (accessed via browser 2026-05-11)
 
@@ -87,6 +87,7 @@ All four journals are publishing extensively on GLP-1 receptor agonists:
 | Date | Summary |
 |---|---|
 | 2026-05-11 | Initial trends document created from live journal pages (Lancet Vol 407 No 10541; BMJ homepage; JAMA homepage; NEJM current issue) |
+| 2026-05-18 | ICI chronotherapy emerges as a new TTE frontier (JITC/BMJ): morning ICI dosing associated with 15% better OS than afternoon — negative control chemotherapy cohort confirms circadian-immune specificity; NEJM Vol 394 #19 features dermatomyositis (brepocitinib Phase 3) and IgA nephropathy (telitacicept Phase 3) as new disease entries |
 
 ---
 

@@ -1,7 +1,7 @@
 # The BMJ — 2026 Trending Topics
 
-**Last updated:** 2026-05-11
-**Source:** BMJ homepage news feed + current research articles (accessed 2026-05-11)
+**Last updated:** 2026-05-18
+**Source:** BMJ homepage news feed + current research articles (accessed 2026-05-18)
 
 ---
 
@@ -21,16 +21,19 @@ The BMJ is the leading UK-based general medical journal with a strong tradition 
 
 | Rank | Topic | Evidence |
 |---|---|---|
-| 1 | **Hantavirus outbreak** | Three articles: cruise ship outbreak, WHO response, explainer |
-| 2 | **Tobacco / vaping regulation** | Tobacco and Vapes Act passed; UK vs Australia comparison |
-| 3 | **Vaccine safety (aluminium adjuvants)** | Systematic review; editorial on "false hypotheses" |
-| 4 | **Alzheimer's disease** | Drug treatment advances; brain health commentary |
-| 5 | **Diabetic peripheral neuropathy** | Pathophysiology review + complication burden |
-| 6 | **Tuberculosis** | VPM1002 + Immuvac efficacy trial; current therapies review |
-| 7 | **AI in clinical medicine** | AI diagnostic accuracy debate; "clinical reasoning made optional" |
-| 8 | **COVID-19 (long/policy)** | Inquiry module 3 (UK health system gaps); vaccination evidence |
-| 9 | **Falls prevention in older adults** | NICE guidance summary |
-| 10 | **Metabolic liver disease (MASLD)** | Mechanisms, diagnosis, management review |
+| 1 | **Hantavirus outbreak** | Quarantined British passengers discharged to home isolation; Lancet Offline cross-citation; ongoing WHO response |
+| 2 | **UK NHS leadership / health policy** | Wes Streeting (health secretary) resignation; new health secretary James Murray; Health Bill management changes |
+| 3 | **PCOS → PMOS name change** | PCOS renamed "polyendocrine metabolic ovarian syndrome"; expert management guidance; patient communication debate |
+| 4 | **Tobacco / vaping regulation** | WHO calls for stricter nicotine pouch regulation as tobacco industry targets youth |
+| 5 | **Vaccine safety (aluminium adjuvants)** | Systematic review; editorial on "false hypotheses" |
+| 6 | **Meningitis** | Student death in Reading; cluster investigation |
+| 7 | **Norovirus** | 50 cruise passengers ill in France — renewed gastrointestinal outbreak vigilance |
+| 8 | **AI in clinical medicine** | "AI, bibliometric ethics, and the need for practical wisdom"; ambient scribe data use scrutiny |
+| 9 | **Children's mental health** | Theta burst stimulation RCT for autism; benzodiazepine/Z-hypnotic prenatal exposure and psychiatric risk in offspring; PRISMA-C 2026 |
+| 10 | **Reproductive / cardiovascular surgery** | Tranexamic acid prophylaxis for PPH in placenta praevia; dual antiplatelet therapy post-CABG RCT |
+| 11 | **Atrial fibrillation** | Catheter ablation TTE — MACE risk in newly diagnosed AF (Heart/BMJ, Ho et al.) |
+| 12 | **AI and mental health** | TTE of AI use and depressive symptoms (BMJ Mental Health, Perlis et al.) — null result |
+| 13 | **ICI chronotherapy in cancer** | Morning vs afternoon ICI timing TTE — NSCLC, VHA data (JITC/BMJ, Gonzalez et al.) |
 
 ---
 
@@ -40,11 +43,15 @@ The BMJ is the leading UK-based general medical journal with a strong tradition 
 |---|---|
 | **mRNA influenza vaccine (Moderna)** | Outperforms standard flu shot — phase 3 data |
 | **GLP-1 receptor agonists** | Exercise + GLP-1 era — weight management conundrum; TTE papers |
+| **Tranexamic acid (prophylactic)** | PPH prevention in placenta praevia — new RCT in BMJ |
+| **Dual antiplatelet (ticagrelor + aspirin)** | Post-CABG: 3 months vs 12 months RCT |
 | **Buprenorphine / methadone** | Prenatal exposure and child neurodevelopment outcomes |
 | **Benzodiazepines / Z-hypnotics** | Pregnancy use and offspring psychiatric risk |
 | **VPM1002 / Immuvac** | Tuberculosis prevention vaccines — new RCT data |
 | **Paracetamol (acetaminophen)** | Toxicity management — updated clinical review |
-| **Combination inhalers** | Asthma: blue inhaler use falling; shift to ICS/LABA |
+| **Nicotine pouches** | WHO calling for stricter regulation; youth targeting by tobacco industry |
+| **Immune checkpoint inhibitors (ICI)** | Chronotherapy: AM vs PM dosing TTE in NSCLC — JITC/BMJ |
+| **Catheter ablation** | TTE: MACE risk reduction in newly diagnosed AF — Heart/BMJ |
 | **Aluminium adjuvanted vaccines** | Systematic review addressing safety concerns |
 
 ---
