@@ -1,7 +1,7 @@
 # JAMA Network — 2026 Trending Topics
 
-**Last updated:** 2026-05-18
-**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-05-18)
+**Last updated:** 2026-05-26
+**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-05-26)
 
 ---
 
@@ -33,6 +33,12 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 | 10 | **Hantavirus** | Patient information feature; coverage following cruise ship outbreak; Lancet/BMJ cross-journal |
 | 11 | **Psilocybin / psychedelics** | Single-dose psilocybin for major depressive disorder; Lancet editorial cross-cited |
 | 12 | **Sibling comparison designs** | Causal inference methodological letter (JAMA, Hswen Y, Apr 2026) — paywalled correspondence |
+| 13 | **Type 1 diabetes screening** | Screening children for early-stage T1DM — JAMA featured research (May 2026) |
+| 14 | **Atrial fibrillation / weight loss** | Weight loss in older patients with persistent AF — JAMA featured research (May 2026) |
+| 15 | **Central venous access complications** | 4% tetrasodium EDTA to prevent CVAD-associated complications — JAMA RCT (May 2026) |
+| 16 | **ICU rehabilitation** | Remote multicomponent rehabilitation in ICU survivors — JAMA RCT (May 2026) |
+| 17 | **Levothyroxine discontinuation** | Discontinuation of levothyroxine in adults ≥60 — JAMA study |
+| 18 | **Intimate partner violence screening** | USPSTF recommendation: screening for IPV and abuse of older adults (May 2026) |
 
 ---
 
@@ -52,6 +58,8 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 | **Levothyroxine** | Discontinuation trial in adults ≥60 |
 | **Psilocybin** | Single-dose for major depressive disorder |
 | **Amoxicillin-clavulanate vs amoxicillin** | Acute sinusitis RCT |
+| **4% Tetrasodium EDTA** | CVAD-associated complication prevention — JAMA RCT (May 2026) |
+| **Levothyroxine** | Discontinuation trial in adults ≥60 years |
 
 ---
 

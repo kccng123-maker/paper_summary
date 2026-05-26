@@ -1,7 +1,7 @@
 # The BMJ — 2026 Trending Topics
 
-**Last updated:** 2026-05-18
-**Source:** BMJ homepage news feed + current research articles (accessed 2026-05-18)
+**Last updated:** 2026-05-26
+**Source:** BMJ homepage news feed + current research articles (accessed 2026-05-26)
 
 ---
 
@@ -34,6 +34,11 @@ The BMJ is the leading UK-based general medical journal with a strong tradition 
 | 11 | **Atrial fibrillation** | Catheter ablation TTE — MACE risk in newly diagnosed AF (Heart/BMJ, Ho et al.) |
 | 12 | **AI and mental health** | TTE of AI use and depressive symptoms (BMJ Mental Health, Perlis et al.) — null result |
 | 13 | **ICI chronotherapy in cancer** | Morning vs afternoon ICI timing TTE — NSCLC, VHA data (JITC/BMJ, Gonzalez et al.) |
+| 14 | **TTE vs RCT concordance (meta-science)** | Wang et al. systematic review (BMJ, 19 May 2026): 107 TTE–RCT pairs; overall Pearson r = 0.59; concordance improves to r = 0.83 with closer design emulation — landmark methodological validation |
+| 15 | **Aortic stenosis** | Advances in diagnosis and management — featured BMJ education article (May 2026) |
+| 16 | **Fracture / falls prevention** | Calcium, vitamin D, or combined supplementation — BMJ research article (May 2026) |
+| 17 | **Climate and health (heatwave)** | UK heatwave: death risk and NHS pressures; urgent hospital cooling systems needed — BMJ news (May 2026) |
+| 18 | **Childhood poverty → school readiness** | TTE using UK Millennium Cohort Study — conference abstract (JECH/BMJ, Chu et al. 2026) |
 
 ---
 
@@ -53,6 +58,10 @@ The BMJ is the leading UK-based general medical journal with a strong tradition 
 | **Immune checkpoint inhibitors (ICI)** | Chronotherapy: AM vs PM dosing TTE in NSCLC — JITC/BMJ |
 | **Catheter ablation** | TTE: MACE risk reduction in newly diagnosed AF — Heart/BMJ |
 | **Aluminium adjuvanted vaccines** | Systematic review addressing safety concerns |
+| **Tranexamic acid (prophylactic)** | PPH prevention in placenta praevia — RCT published in BMJ (May 2026) |
+| **Dual antiplatelet (ticagrelor + aspirin)** | Post-CABG 3 vs 12 months — BMJ RCT (May 2026) |
+| **Vitamin D / calcium** | Fracture and fall prevention — BMJ research (May 2026) |
+| **Benzodiazepines / Z-hypnotics** | Pregnancy use and offspring psychiatric risk — BMJ research (May 2026) |
 
 ---
 

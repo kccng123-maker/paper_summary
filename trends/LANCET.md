@@ -1,7 +1,7 @@
 # The Lancet — 2026 Trending Topics
 
-**Last updated:** 2026-05-18
-**Source:** Current issue TOC (Vol 407, Issue 10542, 16 May 2026) + Lancet family journal index
+**Last updated:** 2026-05-26
+**Source:** Current issue TOC (Vol 407, Issue 10543, 23 May 2026) + Lancet family journal index
 
 ---
 
@@ -32,6 +32,11 @@ The Lancet positions itself as the leading voice on global health policy, social
 | 10 | **Encephalitis** | Seminar: comprehensive encephalitis review (Binks et al.) |
 | 11 | **Mantle cell lymphoma** | Comment: "End of transplantation's reign in mantle cell lymphoma" — post-BTKi era |
 | 12 | **Physical activity & biological ageing** | Lancet Healthy Longevity: DNAm clock meta-analysis (Shan et al., April 2026) |
+| 13 | **Global mental disorder burden** | GBD 2023 analysis: updated trends in global prevalence and burden of mental disorders, 1990–2023 (Vol 407 #10543) |
+| 14 | **Conflict / forced displacement** | Johns Hopkins–Lancet Commission on health, conflict, and forced displacement (Vol 407 #10543); humanitarian system transformation editorial |
+| 15 | **COPD biologics** | Astegolimab (IL-33 inhibitor) entering clinical practice — new era of COPD biologics (Comment, Vol 407 #10543) |
+| 16 | **Stroke (large-vessel occlusion / low ASPECTS)** | ATLAS trial commentary: endovascular treatment for LVO stroke in low-ASPECTS patients (Vol 407 #10543) |
+| 17 | **Familial confounding / causal inference** | Mataix-Cols et al. Viewpoint: familial confounding and causal inference in child neurodevelopment — Lancet Child & Adolescent Health (March 2026) |
 
 ---
 
@@ -46,6 +51,8 @@ The Lancet positions itself as the leading voice on global health policy, social
 | **β-lactam / β-lactamase inhibitors** | New combinations for complicated UTIs — emerging AMR strategy |
 | **Aspirin (low-dose)** | CVD prevention in GCA (JAMA Network Open TTE, cross-referencing) |
 | **Physical activity (non-pharmacological)** | Epigenetic ageing attenuation via DNAm clocks (Lancet Healthy Longevity meta-analysis) |
+| **Astegolimab** | IL-33 monoclonal antibody — new era of COPD biologics (Comment, Vol 407 #10543) |
+| **Enhanced Games performance drugs** | World Report: scientific concerns as Enhanced Games begin (Vol 407 #10543) |
 
 ---
 

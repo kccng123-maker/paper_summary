@@ -1,7 +1,7 @@
 # New England Journal of Medicine — 2026 Trending Topics
 
-**Last updated:** 2026-05-18
-**Source:** NEJM current issue TOC (Vol 394, No. 19, May 14/21 2026) + homepage featured content (accessed 2026-05-18)
+**Last updated:** 2026-05-26
+**Source:** NEJM current issue TOC (Vol 394, No. 20/21, May 2026) + homepage featured content (accessed 2026-05-26)
 
 ---
 
@@ -21,11 +21,13 @@ NEJM is the world's highest-impact medical journal, known for landmark RCTs, cli
 
 | Rank | Topic | Evidence |
 |---|---|---|
-| 1 | **Dermatomyositis** | NEW: Brepocitinib (TYK2/JAK1 inhibitor) Phase 3 RCT — NEJM Vol 394 #19 |
-| 2 | **Medium-vessel-occlusion stroke** | NEW: Endovascular treatment RCT — NEJM Vol 394 #19; editorial on narrowing target population |
-| 3 | **COVID-19 (post-exposure prophylaxis)** | NEW: Ensitrelvir for COVID-19 household contact PEP — NEJM Vol 394 #19 |
-| 4 | **IgA nephropathy** | NEW: Telitacicept (TACI-Fc fusion) Phase 3 interim analysis — NEJM Vol 394 #19; also CD20 vs APRIL/BAFF targeting debate |
-| 5 | **Inflammatory myopathies** | NEW: Review article — NEJM Vol 394 #19 (same issue as dermatomyositis RCT) |
+| 1 | **Dermatomyositis** | Brepocitinib (TYK2/JAK1 inhibitor) Phase 3 RCT — NEJM current issue |
+| 2 | **Medium-vessel-occlusion stroke** | Endovascular treatment RCT — NEJM current issue; editorial on narrowing target population |
+| 3 | **COVID-19 (post-exposure prophylaxis)** | Ensitrelvir for COVID-19 household contact PEP — NEJM current issue |
+| 4 | **IgA nephropathy** | Telitacicept (TACI-Fc fusion) Phase 3 interim analysis — NEJM current issue; CD20 vs APRIL/BAFF targeting debate |
+| 5 | **Inflammatory myopathies** | Review article in current issue (same issue as dermatomyositis RCT) |
+| 12.5 | **AI uncertainty / "I Don't Know"** | NEW: NEJM Perspective — "Can AI Say 'I Don't Know'?" — epistemic limitations of clinical AI (May 2026) |
+| 12.6 | **Health care affordability (self-insured employers)** | NEW: NEJM Perspective — "A Sleeping Giant of Health Care Affordability: Self-Insured Employers" (May 2026) |
 | 6 | **High-risk percutaneous coronary intervention (PCI)** | Microaxial flow pump (Impella) trial — ventricular unloading in high-risk PCI |
 | 7 | **Pancreatic cancer (RAS-mutated)** | Daraxonrasib trial in previously treated advanced disease |
 | 8 | **Sickle cell disease** | Base editing of HBG1 and HBG2 promoters — curative gene therapy approach |

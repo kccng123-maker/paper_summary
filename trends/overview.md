@@ -1,6 +1,6 @@
 # Cross-Journal Medical Trends Overview — 2026
 
-**Last updated:** 2026-05-18
+**Last updated:** 2026-05-26
 **Journals covered:** The Lancet, BMJ, JAMA, NEJM
 **Sources:** Current issue TOCs, journal homepages, news sections (accessed via browser 2026-05-11)
 
@@ -88,6 +88,7 @@ All four journals are publishing extensively on GLP-1 receptor agonists:
 |---|---|
 | 2026-05-11 | Initial trends document created from live journal pages (Lancet Vol 407 No 10541; BMJ homepage; JAMA homepage; NEJM current issue) |
 | 2026-05-18 | ICI chronotherapy emerges as a new TTE frontier (JITC/BMJ): morning ICI dosing associated with 15% better OS than afternoon — negative control chemotherapy cohort confirms circadian-immune specificity; NEJM Vol 394 #19 features dermatomyositis (brepocitinib Phase 3) and IgA nephropathy (telitacicept Phase 3) as new disease entries |
+| 2026-05-26 | TTE methodological maturation: BMJ publishes first large-scale systematic review of TTE–RCT concordance (107 pairs; r = 0.59 overall, r = 0.83 with close design emulation), while Lancet Child & Adolescent Health and JAMA simultaneously publish complementary calls for sibling/family-based confounding control — marking a convergence on causal inference standards across journals; Lancet Vol 407 #10543 dominated by global mental disorder burden (GBD 2023) and conflict/humanitarian health commission |
 
 ---
 
