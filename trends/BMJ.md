@@ -1,7 +1,7 @@
 # The BMJ — 2026 Trending Topics
 
-**Last updated:** 2026-05-26
-**Source:** BMJ homepage news feed + current research articles (accessed 2026-05-26)
+**Last updated:** 2026-06-02
+**Source:** BMJ homepage news feed + current research articles (accessed 2026-06-02)
 
 ---
 
@@ -39,6 +39,8 @@ The BMJ is the leading UK-based general medical journal with a strong tradition 
 | 16 | **Fracture / falls prevention** | Calcium, vitamin D, or combined supplementation — BMJ research article (May 2026) |
 | 17 | **Climate and health (heatwave)** | UK heatwave: death risk and NHS pressures; urgent hospital cooling systems needed — BMJ news (May 2026) |
 | 18 | **Childhood poverty → school readiness** | TTE using UK Millennium Cohort Study — conference abstract (JECH/BMJ, Chu et al. 2026) |
+| 19 | **Sulfonylurea within-class kidney outcomes** | NEW: Sklepinski et al. TTE of glimepiride vs glipizide vs glyburide — first head-to-head kidney outcomes comparison (BMJ Open Diabetes R&C, 21 May 2026); glyburide lower CKD risk but higher hypoglycemia |
+| 20 | **TTE–RCT concordance (editorial)** | NEW: Islam, Feeney, Kurth editorial on concordance and discordance between RCTs and emulated TTEs — "concordance needs to be earned, not assumed" (BMJ, 26 May 2026); Ebola outbreak in DRC escalating; ADHD support gaps; Galleri cancer test fails primary endpoint |
 
 ---
 
@@ -62,6 +64,7 @@ The BMJ is the leading UK-based general medical journal with a strong tradition 
 | **Dual antiplatelet (ticagrelor + aspirin)** | Post-CABG 3 vs 12 months — BMJ RCT (May 2026) |
 | **Vitamin D / calcium** | Fracture and fall prevention — BMJ research (May 2026) |
 | **Benzodiazepines / Z-hypnotics** | Pregnancy use and offspring psychiatric risk — BMJ research (May 2026) |
+| **Sulfonylureas (glimepiride, glipizide, glyburide)** | NEW: First head-to-head kidney outcomes TTE in T2D (Sklepinski et al., BMJ Open Diabetes R&C, May 2026); glyburide unexpectedly lowest CKD risk |
 
 ---
 

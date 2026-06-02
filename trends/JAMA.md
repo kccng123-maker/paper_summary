@@ -1,7 +1,7 @@
 # JAMA Network — 2026 Trending Topics
 
-**Last updated:** 2026-05-26
-**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-05-26)
+**Last updated:** 2026-06-02
+**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-06-02)
 
 ---
 
@@ -39,6 +39,12 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 | 16 | **ICU rehabilitation** | Remote multicomponent rehabilitation in ICU survivors — JAMA RCT (May 2026) |
 | 17 | **Levothyroxine discontinuation** | Discontinuation of levothyroxine in adults ≥60 — JAMA study |
 | 18 | **Intimate partner violence screening** | USPSTF recommendation: screening for IPV and abuse of older adults (May 2026) |
+| 19 | **Non-small cell lung cancer (adjuvant immunotherapy)** | NEW: Adjuvant nivolumab vs observation in resected NSCLC — RCT (JAMA, Jun 1 2026) |
+| 20 | **Antihypertensive adverse effects** | NEW: JAMA Editor's Choice — adverse effects and treatment discontinuation of BP-lowering drugs and combinations (Jun 1 2026) |
+| 21 | **Multicancer early detection (liquid biopsy)** | NEW: Cancer diagnostic delay after cfDNA MCED testing — JAMA original investigation (Jun 1 2026); JAMA Editorial on multicancer detection tests |
+| 22 | **Hearing aids (mild-moderate hearing loss)** | NEW: JAMA Insights on hearing aids for adults — clinical evidence update (Jun 1 2026) |
+| 23 | **Male hypogonadism** | NEW: Adult male hypogonadism review — JAMA (Jun 1 2026) |
+| 24 | **Advanced breast cancer (CDK2 inhibitor)** | NEW: Fovinaciclib for first-line advanced breast cancer — RCT (JAMA Oncology, Jun 1 2026) |
 
 ---
 
@@ -60,6 +66,8 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 | **Amoxicillin-clavulanate vs amoxicillin** | Acute sinusitis RCT |
 | **4% Tetrasodium EDTA** | CVAD-associated complication prevention — JAMA RCT (May 2026) |
 | **Levothyroxine** | Discontinuation trial in adults ≥60 years |
+| **Nivolumab (adjuvant, NSCLC)** | NEW: Adjuvant immunotherapy after resection of NSCLC — JAMA RCT (Jun 2026) |
+| **Fovinaciclib (CDK2 inhibitor)** | NEW: First-line advanced breast cancer — JAMA Oncology RCT (Jun 2026) |
 
 ---
 

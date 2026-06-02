@@ -1,7 +1,7 @@
 # New England Journal of Medicine — 2026 Trending Topics
 
-**Last updated:** 2026-05-26
-**Source:** NEJM current issue TOC (Vol 394, No. 20/21, May 2026) + homepage featured content (accessed 2026-05-26)
+**Last updated:** 2026-06-02
+**Source:** NEJM current issue TOC (Vol 394, No. 22, May 28, 2026) + homepage featured content (accessed 2026-06-02)
 
 ---
 
@@ -35,6 +35,12 @@ NEJM is the world's highest-impact medical journal, known for landmark RCTs, cli
 | 10 | **US health care affordability** | "A Sleeping Giant of Health Care Affordability — Self-Insured Employers" — NEJM Perspective |
 | 11 | **COVID-19** | Ensitrelvir PEP; current causes of death among children/adolescents (US) |
 | 12 | **Corporatisation of US health care** | Commissioned series on academic medicine and corporate medicine (ongoing) |
+| 13 | **Pulmonary embolism (ultrasound-facilitated CDT)** | NEW: Ultrasound-facilitated catheter-directed fibrinolysis for acute PE — NEJM RCT (Vol 394 No. 22, May 28 2026) |
+| 14 | **Heart failure (stem-cell biologic ventricular assist)** | NEW: Stem-cell–derived biologic ventricular assist tissue in heart failure — NEJM RCT (Vol 394 No. 22, May 28 2026) |
+| 15 | **HER2-positive gastroesophageal cancer** | NEW: Zanidatamab ± tislelizumab in HER2+ gastroesophageal cancer — NEJM RCT (Vol 394 No. 22, May 28 2026) |
+| 16 | **Chiari I malformation / syringomyelia** | NEW: Decompression ± duraplasty — NEJM RCT (Vol 394 No. 22, May 28 2026) |
+| 17 | **Leishmaniasis** | NEW: NEJM review article (Vol 394 No. 22, May 28 2026) |
+| 18 | **Dietary guidelines (2025–2030)** | NEW: NEJM Perspective on the 2025–2030 US Dietary Guidelines — progress, pitfalls, path forward (Vol 394 No. 22) |
 
 ---
 
@@ -52,6 +58,8 @@ NEJM is the world's highest-impact medical journal, known for landmark RCTs, cli
 | **Microaxial flow pump (Impella)** | Left ventricular unloading device in high-risk PCI |
 | **Tirzepatide** | Weight maintenance (referenced across journals) |
 | **Donanemab** | Early Alzheimer's disease trial (cross-journal) |
+| **Zanidatamab + tislelizumab** | NEW: HER2-targeted bispecific antibody + PD-1 inhibitor in gastroesophageal cancer (NEJM Vol 394 No. 22) |
+| **Ultrasound-facilitated CDT (EkoSonic)** | NEW: Catheter-directed fibrinolysis for intermediate-high-risk PE (NEJM Vol 394 No. 22) |
 
 ---
 

@@ -1,7 +1,7 @@
 # The Lancet — 2026 Trending Topics
 
-**Last updated:** 2026-05-26
-**Source:** Current issue TOC (Vol 407, Issue 10543, 23 May 2026) + Lancet family journal index
+**Last updated:** 2026-06-02
+**Source:** Current issue TOC (Vol 407, Issue 10544, 30 May 2026) + Lancet family journal index
 
 ---
 
@@ -37,6 +37,10 @@ The Lancet positions itself as the leading voice on global health policy, social
 | 15 | **COPD biologics** | Astegolimab (IL-33 inhibitor) entering clinical practice — new era of COPD biologics (Comment, Vol 407 #10543) |
 | 16 | **Stroke (large-vessel occlusion / low ASPECTS)** | ATLAS trial commentary: endovascular treatment for LVO stroke in low-ASPECTS patients (Vol 407 #10543) |
 | 17 | **Familial confounding / causal inference** | Mataix-Cols et al. Viewpoint: familial confounding and causal inference in child neurodevelopment — Lancet Child & Adolescent Health (March 2026) |
+| 18 | **Alzheimer's disease (semaglutide / GLP-1)** | Semaglutide 14 mg (evoke and evoke+) Phase 3 RCTs — oral GLP-1 for early symptomatic Alzheimer's (Lancet Vol 407 #10544, 30 May 2026) |
+| 19 | **Multiple sclerosis (ocrelizumab / dose escalation)** | MUSETTE and GAVOTTE trials: weight-adjusted higher-dose ocrelizumab in relapsing and primary progressive MS (Lancet Vol 407 #10544) |
+| 20 | **Parkinson's disease (prasinezumab)** | PADOVA Phase 2b: prasinezumab (anti-α-synuclein) in early-stage Parkinson's on stable symptomatic monotherapy (Lancet Vol 407 #10544) |
+| 21 | **Blood biomarkers for Alzheimer's** | Plasma biomarkers (amyloid, tau, pTau) in midlife community cohort (Lancet Vol 407 #10544) — convergence with JAMA Alzheimer's biomarker research |
 
 ---
 
@@ -53,6 +57,9 @@ The Lancet positions itself as the leading voice on global health policy, social
 | **Physical activity (non-pharmacological)** | Epigenetic ageing attenuation via DNAm clocks (Lancet Healthy Longevity meta-analysis) |
 | **Astegolimab** | IL-33 monoclonal antibody — new era of COPD biologics (Comment, Vol 407 #10543) |
 | **Enhanced Games performance drugs** | World Report: scientific concerns as Enhanced Games begin (Vol 407 #10543) |
+| **Oral semaglutide 14 mg (Ozempic/Rybelsus)** | NEW: Phase 3 RCTs in early-stage symptomatic Alzheimer's disease — GLP-1 crossing the blood-brain barrier (Lancet Vol 407 #10544) |
+| **Ocrelizumab (weight-adjusted higher dose)** | NEW: MUSETTE + GAVOTTE trials — dose escalation in relapsing and primary progressive MS (Lancet Vol 407 #10544) |
+| **Prasinezumab** | NEW: PADOVA Phase 2b — anti-α-synuclein antibody in early Parkinson's disease (Lancet Vol 407 #10544) |
 
 ---
 
