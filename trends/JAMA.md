@@ -1,7 +1,7 @@
 # JAMA Network — 2026 Trending Topics
 
-**Last updated:** 2026-06-02
-**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-06-02)
+**Last updated:** 2026-06-09
+**Source:** JAMA homepage + JAMA Network featured articles (accessed 2026-06-09)
 
 ---
 
@@ -45,6 +45,13 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 | 22 | **Hearing aids (mild-moderate hearing loss)** | NEW: JAMA Insights on hearing aids for adults — clinical evidence update (Jun 1 2026) |
 | 23 | **Male hypogonadism** | NEW: Adult male hypogonadism review — JAMA (Jun 1 2026) |
 | 24 | **Advanced breast cancer (CDK2 inhibitor)** | NEW: Fovinaciclib for first-line advanced breast cancer — RCT (JAMA Oncology, Jun 1 2026) |
+| 25 | **Diabetes / obesity at ADA 2026 (oral incretins)** | NEW: "Advancing Diabetes Care: ADA 2026" hub — ACHIEVE-5 RCT (orforglipron added to titrated insulin glargine in T2D); GLORY-2 RCT (9-mg mazdutide for weight reduction in Chinese adults); editorial "Mazdutide and Orforglipron — New Evidence in Obesity and Diabetes" |
+| 26 | **Insulin affordability / drug pricing policy** | NEW: Insulin costs and use by Medicare beneficiaries after the Inflation Reduction Act out-of-pocket cap; editorial "Insulin Cost Caps, Trade-Offs, and Pharmacoequity in Diabetes" |
+| 27 | **Biomedical research workforce equity** | NEW: Trends in NIH investigators by sex, race, ethnicity, and disability status — US science-policy / workforce diversity |
+| 28 | **Tetanus resurgence** | NEW: "Resurgence of Tetanus — Reasons Why the Vaccine Remains Instrumental" — vaccine-hesitancy framing |
+| 29 | **Kidney filtration assessment (eGFR)** | NEW: "Precision, Pragmatism, and Emerging Paradigms in Determining Kidney Filtration Function" — evolving GFR estimation standards |
+| 30 | **Cyanotic congenital heart disease (adult survivors)** | NEW: JAMA Review — survivors of cyanotic congenital heart disease |
+| 31 | **Exercise prehabilitation** | NEW: "Presurgery exercise and nutrition may reduce complications, hospital stays" — perioperative prehab evidence |
 
 ---
 
@@ -68,6 +75,9 @@ JAMA is the flagship journal of the American Medical Association — focused on 
 | **Levothyroxine** | Discontinuation trial in adults ≥60 years |
 | **Nivolumab (adjuvant, NSCLC)** | NEW: Adjuvant immunotherapy after resection of NSCLC — JAMA RCT (Jun 2026) |
 | **Fovinaciclib (CDK2 inhibitor)** | NEW: First-line advanced breast cancer — JAMA Oncology RCT (Jun 2026) |
+| **Orforglipron (oral GLP-1)** | NEW: ACHIEVE-5 RCT — oral GLP-1 added to titrated insulin glargine in T2D (ADA 2026, JAMA) |
+| **Mazdutide (GLP-1/glucagon dual agonist)** | NEW: GLORY-2 RCT — 9-mg mazdutide for weight reduction in Chinese adults with obesity (ADA 2026, JAMA) |
+| **Insulin glargine (+ oral incretin)** | NEW: Backbone therapy in ACHIEVE-5 combination; IRA out-of-pocket cap impact on Medicare insulin use |
 
 ---
 

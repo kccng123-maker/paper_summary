@@ -1,7 +1,7 @@
 # The BMJ — 2026 Trending Topics
 
-**Last updated:** 2026-06-02
-**Source:** BMJ homepage news feed + current research articles (accessed 2026-06-02)
+**Last updated:** 2026-06-09
+**Source:** BMJ homepage news feed + current research articles (accessed 2026-06-09)
 
 ---
 
@@ -41,6 +41,11 @@ The BMJ is the leading UK-based general medical journal with a strong tradition 
 | 18 | **Childhood poverty → school readiness** | TTE using UK Millennium Cohort Study — conference abstract (JECH/BMJ, Chu et al. 2026) |
 | 19 | **Sulfonylurea within-class kidney outcomes** | NEW: Sklepinski et al. TTE of glimepiride vs glipizide vs glyburide — first head-to-head kidney outcomes comparison (BMJ Open Diabetes R&C, 21 May 2026); glyburide lower CKD risk but higher hypoglycemia |
 | 20 | **TTE–RCT concordance (editorial)** | NEW: Islam, Feeney, Kurth editorial on concordance and discordance between RCTs and emulated TTEs — "concordance needs to be earned, not assumed" (BMJ, 26 May 2026); Ebola outbreak in DRC escalating; ADHD support gaps; Galleri cancer test fails primary endpoint |
+| 21 | **Global child & adolescent mortality (GBD)** | NEW: Major multi-paper GBD series — global/regional/national levels & trends in under-5, infant, and neonatal mortality 1990–2024 with projections to 2030; older child/adolescent/youth (5–24 yr) all-cause mortality; systematic estimates of causes of neonatal/under-5 and 5–19 death (Bayesian multinomial logistic regression) |
+| 22 | **Observational-methods / causal-inference rigour** | NEW: Cluster of methods papers — "Using routinely collected data for research purposes: challenges and mitigation strategies"; "Outcome switching in cohort studies of interventions"; "CRT-Estimands Framework" (ICH E9(R1) extension for cluster RCTs); "Analysing complex interventions using component network meta-analysis" — continuing BMJ's meta-research / causal-inference standards push |
+| 23 | **Pancreatic & ovarian cancer therapeutics** | NEW: "Pancreatic cancer: new drug results prompt standing ovation at oncology conference"; new ovarian cancer drug approved for NHS England |
+| 24 | **Measles resurgence (South Asia)** | NEW: Bangladesh and Pakistan outbreaks near 30,000 cases with >170 child deaths — vaccine-coverage gap reporting |
+| 25 | **Health AI governance / NHS data** | NEW: "Middle powers must collaborate on health data and health AI"; MPs say Palantir should not have a significant role in NHS — continuing BMJ scrutiny of AI/data in public services |
 
 ---
 

@@ -1,7 +1,7 @@
 # New England Journal of Medicine — 2026 Trending Topics
 
-**Last updated:** 2026-06-02
-**Source:** NEJM current issue TOC (Vol 394, No. 22, May 28, 2026) + homepage featured content (accessed 2026-06-02)
+**Last updated:** 2026-06-09
+**Source:** NEJM current issue TOC (June 2026) + homepage featured content (accessed 2026-06-09)
 
 ---
 
@@ -41,6 +41,14 @@ NEJM is the world's highest-impact medical journal, known for landmark RCTs, cli
 | 16 | **Chiari I malformation / syringomyelia** | NEW: Decompression ± duraplasty — NEJM RCT (Vol 394 No. 22, May 28 2026) |
 | 17 | **Leishmaniasis** | NEW: NEJM review article (Vol 394 No. 22, May 28 2026) |
 | 18 | **Dietary guidelines (2025–2030)** | NEW: NEJM Perspective on the 2025–2030 US Dietary Guidelines — progress, pitfalls, path forward (Vol 394 No. 22) |
+| 19 | **Atrial fibrillation (LAA closure vs anticoagulation)** | NEW: "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation" — head-to-head RCT; editorial "LAA Closure — Should Recommendations Be Expanded?" (current issue) |
+| 20 | **Acute hypoxemic respiratory failure** | NEW: "High-Flow or Standard Oxygen in Acute Hypoxemic Respiratory Failure" — RCT; editorial "Rethinking High-Flow Oxygen…" (current issue) |
+| 21 | **Acute myeloid leukemia (all-oral regimen)** | NEW: "All-Oral Treatment of Newly Diagnosed Acute Myeloid Leukemia" — RCT (current issue) |
+| 22 | **CAR T-cell therapy beyond oncology (desensitization)** | NEW: Brief Report — kidney transplantation in two highly sensitized candidates after CD19 CAR T-cell clearing of anti-HLA antibodies (current issue) |
+| 23 | **Gene-therapy vector safety** | NEW: Brief Report — neuroepithelial tumor with AAV integration after intracisternal magna vector delivery — vector-integration oncogenesis signal (current issue) |
+| 24 | **Childhood vaccine hesitancy** | NEW: NEJM feature on childhood vaccine hesitancy — continuing 2026 vaccine-confidence theme |
+| 25 | **Corporatization of US health care (expanded)** | NEW: "The Corporatization of U.S. Health Care: Regulating Corporate Control…"; "Perversity in Medicine — When Vocation and Corporatization Clash" — series deepens |
+| 26 | **Diet/endocrine–oncology mechanism** | NEW: Clinical Implications of Basic Research — "Fasting, Glucocorticoids, and Breast Cancer" |
 
 ---
 
@@ -60,6 +68,9 @@ NEJM is the world's highest-impact medical journal, known for landmark RCTs, cli
 | **Donanemab** | Early Alzheimer's disease trial (cross-journal) |
 | **Zanidatamab + tislelizumab** | NEW: HER2-targeted bispecific antibody + PD-1 inhibitor in gastroesophageal cancer (NEJM Vol 394 No. 22) |
 | **Ultrasound-facilitated CDT (EkoSonic)** | NEW: Catheter-directed fibrinolysis for intermediate-high-risk PE (NEJM Vol 394 No. 22) |
+| **Left atrial appendage closure (device)** | NEW: LAAC vs oral anticoagulation in AF — head-to-head RCT (current issue) |
+| **High-flow nasal oxygen** | NEW: High-flow vs standard oxygen in acute hypoxemic respiratory failure — RCT (current issue) |
+| **CD19 CAR T cells (desensitization)** | NEW: Clearing anti-HLA antibodies to enable kidney transplantation in highly sensitized candidates (current issue) |
 
 ---
 

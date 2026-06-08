@@ -1,7 +1,7 @@
 # The Lancet — 2026 Trending Topics
 
-**Last updated:** 2026-06-02
-**Source:** Current issue TOC (Vol 407, Issue 10544, 30 May 2026) + Lancet family journal index
+**Last updated:** 2026-06-09
+**Source:** Current issue TOC (Vol 407, Issue 10545, 06 June 2026) + Lancet family journal index
 
 ---
 
@@ -41,6 +41,12 @@ The Lancet positions itself as the leading voice on global health policy, social
 | 19 | **Multiple sclerosis (ocrelizumab / dose escalation)** | MUSETTE and GAVOTTE trials: weight-adjusted higher-dose ocrelizumab in relapsing and primary progressive MS (Lancet Vol 407 #10544) |
 | 20 | **Parkinson's disease (prasinezumab)** | PADOVA Phase 2b: prasinezumab (anti-α-synuclein) in early-stage Parkinson's on stable symptomatic monotherapy (Lancet Vol 407 #10544) |
 | 21 | **Blood biomarkers for Alzheimer's** | Plasma biomarkers (amyloid, tau, pTau) in midlife community cohort (Lancet Vol 407 #10544) — convergence with JAMA Alzheimer's biomarker research |
+| 22 | **Systemic lupus erythematosus (CD40L pathway)** | NEW: PHOENYCS GO Phase 3 — dapirolizumab pegol (CD40 ligand inhibitor) in SLE (Lancet Vol 407 #10545, 06 Jun 2026); comment "Targeting CD40 with dapirolizumab pegol" |
+| 23 | **Obesity / weight-regain maintenance** | NEW: SURMOUNT-MAINTAIN Phase 3 — tirzepatide for maintenance of bodyweight reduction (USA, Vol 407 #10545); comment "Challenges in mitigating weight regain with incretin-based therapy" |
+| 24 | **Coronary microvascular dysfunction** | NEW: Multicenter FLOW-CMD Registry (South Korea) — coronary microvascular dysfunction and CV outcomes (Vol 407 #10545); comment on microvascular dysfunction in atherosclerotic coronary disease |
+| 25 | **Ebola (Bundibugyo virus)** | NEW: Lead editorial "Responding to Ebola: a test" + comment on the PHEIC for Ebola disease caused by Bundibugyo virus (Vol 407 #10545) — new outbreak / health-equity framing |
+| 26 | **PCOS → Polyendocrine Metabolic Ovarian Syndrome (PMOS)** | NEW: Health Policy — multistep global consensus renaming polycystic ovary syndrome to "polyendocrine metabolic ovarian syndrome" (Vol 407 #10545) |
+| 27 | **AI oversight in health care** | NEW: Viewpoint "Who's really in the loop? Rethinking oversight in AI-assisted health care" (Vol 407 #10545); plus Lancet Reg Health–Americas Review framing target trial emulation as the causal scaffolding for AI-augmented EBM (Cruz-Suarez et al.) |
 
 ---
 
@@ -60,6 +66,8 @@ The Lancet positions itself as the leading voice on global health policy, social
 | **Oral semaglutide 14 mg (Ozempic/Rybelsus)** | NEW: Phase 3 RCTs in early-stage symptomatic Alzheimer's disease — GLP-1 crossing the blood-brain barrier (Lancet Vol 407 #10544) |
 | **Ocrelizumab (weight-adjusted higher dose)** | NEW: MUSETTE + GAVOTTE trials — dose escalation in relapsing and primary progressive MS (Lancet Vol 407 #10544) |
 | **Prasinezumab** | NEW: PADOVA Phase 2b — anti-α-synuclein antibody in early Parkinson's disease (Lancet Vol 407 #10544) |
+| **Dapirolizumab pegol** | NEW: PHOENYCS GO Phase 3 — CD40 ligand (CD40L) inhibitor in SLE (Lancet Vol 407 #10545, 06 Jun 2026) |
+| **Tirzepatide (weight-maintenance)** | NEW: SURMOUNT-MAINTAIN Phase 3 — sustaining bodyweight reduction / preventing regain after incretin therapy (Vol 407 #10545) |
 
 ---
 
